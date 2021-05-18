@@ -1,0 +1,18 @@
+{
+  "name": "jsprimer-usecase-002",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:moyoyomiyazawa/jsprimer-usecase-002.git",
+  "author": "Yuya Kasai <moyoyomiyazawa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "marked": "^2.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  },
+  "scripts": {
+    "test": "mocha test/"
+  }
+}
